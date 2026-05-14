@@ -27,7 +27,7 @@ export default function Hero() {
           transition={{ duration: 0.6, delay: 0.1, ease: "easeOut" }}
           className="text-3xl font-semibold leading-tight tracking-tight text-text-primary sm:text-4xl md:text-5xl"
         >
-          Research-driven Web3 & AI security organization.
+          Research-driven AI & Web3 security organization.
         </motion.h1>
 
         <motion.p
