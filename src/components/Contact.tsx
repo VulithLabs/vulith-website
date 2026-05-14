@@ -25,10 +25,10 @@ export default function Contact() {
               builders, and research organizations.
             </p>
             <a
-              href="mailto:contact@vulith.com"
+              href="mailto:security@vulith.io"
               className="mt-6 inline-block font-mono text-sm text-accent transition-colors duration-200 hover:text-text-primary"
             >
-              contact@vulith.com
+              security@vulith.io
             </a>
           </motion.div>
         </div>
